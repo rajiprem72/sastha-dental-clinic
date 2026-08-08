@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Sastha Dental Clinic - Kolathur Branch",
+    "type": "Dental Clinic",
+    "address": "Sarojini Nagar, Kolathur, Greater Chennai,",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600099",
+    "country": "India",
+    "phone": ["+91 99622 11329"],
+    "email": "satheesh_dentist@gmail.com",
+    "website": "https://sastha-dental-clinic.com",
+    "latitude": 13.12549334954417, 
+    "longitude": 80.21710189568039
+  },
+  {
+    "id": 2,
+    "name": "Sastha Dental Clinic - Mathur Branch",
+    "type": "Dental Clinic",
+    "address": "No-4433, LIG-II,, 1st, 1st Main Rd, MMDA, TNHB Layout, Mathur,",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600068",
+    "country": "India",
+    "phone": ["+91 99622 11329"],
+    "email": "satheesh_dentist@gmail.com",
+    "website": "https://sastha-dental-clinic.com",
+    "latitude": 13.169038140889853, 
+    "longitude": 80.24609020493776
+  },
+  {
+    "id": 3,
+    "name": "Sastha Dental Clinic - Vysarpadi Branch",
+    "type": "Dental Clinic",
+    "address": "Tondiarpet High Rd, M.G.R.NAGAR, B Block, Chandra Sekar Nagar, Vyasarpadi, Greater Chennai",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600118",
+    "country": "India",
+    "phone": ["+91 99622 11329"],
+    "email": "satheesh_dentist@gmail.com",
+    "website": "https://sastha-dental-clinic.com",
+    "latitude": 13.126888696497872, 
+    "longitude": 80.27174709568041
+  }  
+]
